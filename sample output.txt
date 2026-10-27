@@ -1,0 +1,65 @@
+Connecting to API...
+
+**************************************
+         USER INFORMATION
+**************************************
+ID      : 1
+Name    : Leanne Graham
+Email   : Sincere@april.biz
+Username: Bret
+City    : Gwenborough
+--------------------------------------
+ID      : 2
+Name    : Ervin Howell
+Email   : Shanna@melissa.tv
+Username: Antonette
+City    : Wisokyburgh
+--------------------------------------
+ID      : 3
+Name    : Clementine Bauch
+Email   : Nathan@yesenia.net
+Username: Samantha
+City    : McKenziehaven
+--------------------------------------
+ID      : 4
+Name    : Patricia Lebsack
+Email   : Julianne.OConner@kory.org
+Username: Karianne
+City    : South Elvis
+--------------------------------------
+ID      : 5
+Name    : Chelsey Dietrich
+Email   : Lucio_Hettinger@annie.ca
+Username: Kamren
+City    : Roscoeview
+--------------------------------------
+ID      : 6
+Name    : Mrs. Dennis Schulist
+Email   : Karley_Dach@jasper.info
+Username: Leopoldo_Corkery
+City    : South Christy
+--------------------------------------
+ID      : 7
+Name    : Kurtis Weissnat
+Email   : Telly.Hoeger@billy.biz
+Username: Elwyn.Skiles
+City    : Howemouth
+--------------------------------------
+ID      : 8
+Name    : Nicholas Runolfsdottir V
+Email   : Sherwood@rosamond.me
+Username: Maxime_Nienow
+City    : Aliyaview
+--------------------------------------
+ID      : 9
+Name    : Glenna Reichert
+Email   : Chaim_McDermott@dana.io
+Username: Delphine
+City    : Bartholomebury
+--------------------------------------
+ID      : 10
+Name    : Clementina DuBuque
+Email   : Rey.Padberg@karina.biz
+Username: Moriah.Stanton
+City    : Lebsackbury
+--------------------------------------
